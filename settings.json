@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "Flywinds.aternos.me",
+    "port": :30312,
     "version": "",
     "try-creative": false
   },
