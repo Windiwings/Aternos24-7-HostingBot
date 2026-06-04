@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Flywinds.aternos.me",
-    "port": :30312,
+    "port":"30312",
     "version": "",
     "try-creative": false
   },
